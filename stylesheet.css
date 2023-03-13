@@ -1,20 +1,25 @@
 /*Home page styling*/
 .one {
+    color: black !important;
     background-color: rgba(255,179,186);
 }
 
 .two {
+    color: black !important;
     background-color: rgba(255,223,186);
 }
 
 .three {
+    color: black !important;
     background-color: rgba(255,255,186);
 }
 
 .four {
+    color: black !important;
     background-color: rgba(186,255,201);
 }
 
 .five {
+    color: black !important;
     background-color: rgba(186,225,255);
 }
